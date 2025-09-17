@@ -38,6 +38,10 @@ blinkit-shopping/Blinkit
 ## 📸 Screenshot
 ![Screenshot - Home Page](screenshot.png)
 
+## live link
+![live demo link](https://garblinkit.netlify.app/)
+https://garblinkit.netlify.app/
+
 ---
 
 ## 🚀 How to Run
