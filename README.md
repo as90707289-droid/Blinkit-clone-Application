@@ -36,7 +36,7 @@ blinkit-shopping/Blinkit
 ---
 
 ## 📸 Screenshot
-![Screenshot - Home Page](README.png)
+![Screenshot - Home Page](screenshot.png)
 
 ---
 
@@ -45,7 +45,7 @@ blinkit-shopping/Blinkit
    ```bash
    git clone https://github.com/as90707289-droid/Blinkit-clone-Application.git
 
-   
+
 
 ⚠️ Disclaimer
 
