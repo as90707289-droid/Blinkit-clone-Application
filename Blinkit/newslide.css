@@ -1,0 +1,10 @@
+.searchbox input {
+    position: relative;
+    transition: all 0.8s ease-in;
+}
+
+.searchbox input.slide {
+    transform: translateY(20px);
+    opacity: 0;
+}
+

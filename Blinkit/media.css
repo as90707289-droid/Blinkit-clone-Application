@@ -1,0 +1,46 @@
+@media (max-width: 768px) { /* Mobile */
+    .productrow {
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 0;
+        padding: 0 5px;
+        display: flex;
+        gap: 10px; /* Adds space between items */
+    }
+
+    .productitems {
+        flex-basis: calc(50% - 10px); /* Ensures 2 items per row with spacing */
+        margin-bottom: 10px;
+    }
+
+    /* Ensure full-width */
+    body, html {
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+    /* Fix Login and My Cart buttons at the bottom */
+    .headerbtn {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: white;
+        padding: 10px;
+        display: flex;
+        justify-content: space-around;
+        box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .headerbtn button {
+        flex-grow: 1;
+        margin: 0 5px;
+        text-align: center;
+    }
+
+    .headerbtn button:last-child {
+        width: auto;
+    }
+}
+
+
